@@ -1,8 +1,13 @@
-# Hi, I'm @joshtronic 👋
+# Hi, I'm [@joshtronic](https://github.com/joshtronic) 👋
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=joshtronic&theme=dark&show_icons=true&include_all_commits=true&count_private=true&border_radius=12">
+- 📅 Founder of [Holiday API](https://holidayapi.com)
+- 📧 Backend Engineering Manager at [Mailshake](https://mailshake.com)
+- 📍 Austin, Texas for now, not forever
+- 🎸 Bass
+- 🎣 Bass
+-
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joshtronic&theme=dark&layout=compact&langs_count=10&border_radius=12" height="195">
+<img src="https://github-readme-stats.vercel.app/api?username=joshtronic&theme=dark&show_icons=true&include_all_commits=true&count_private=true&border_radius=12">
 
 <!--
 **joshtronic/joshtronic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
