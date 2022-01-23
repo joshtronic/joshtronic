@@ -1,12 +1,5 @@
 # Hi, I'm [@joshtronic](https://github.com/joshtronic) 👋
 
-- 📅 Founder of [Holiday API](https://holidayapi.com)
-- 📧 Backend Engineering Manager at [Mailshake](https://mailshake.com)
-- 📍 Austin, Texas for now, not forever
-- 🎸 Bass
-- 🎣 Bass
--
-
 <img src="https://github-readme-stats.vercel.app/api?username=joshtronic&theme=dark&show_icons=true&include_all_commits=true&count_private=true&border_radius=12">
 
 <!--
@@ -22,4 +15,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 📅 Founder of [Holiday API](https://holidayapi.com)
+- 📧 Backend Engineering Manager at [Mailshake](https://mailshake.com)
+- 📍 Austin, Texas for now, not forever
+- 🎸 Bass
+- 🎣 Bass
 -->
