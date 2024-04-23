@@ -1,24 +1,19 @@
-# Hi, I'm [@joshtronic](https://github.com/joshtronic) 👋
+# Hi 👋 I’m Josh
 
-<img src="https://github-readme-stats.vercel.app/api?username=joshtronic&theme=dark&show_icons=true&include_all_commits=true&count_private=true&border_radius=12">
+## Husband. Father. Pug dad. Musician.
 
-<!--
-**joshtronic/joshtronic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Josh Sherman, a product-minded engineer that’s been developing web
+applications since before the turn of the century. I’ve been fortunate enough to
+lead teams for $10MM+ startups and scale systems to tens of millions of users.
 
-Here are some ideas to get you started:
+I’m also the founder of [Holiday API][hapi], Head of Engineering at
+[Mailshake][ms], and author of the best damn [Lorem Ipsum Library for
+PHP][lipsum].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My personal site is a [collection of my writing][words] over the last 16 years
+with a heavy focus on technology, development, and occasionally, fermentables.
 
-- 📅 Founder of [Holiday API](https://holidayapi.com)
-- 📧 Backend Engineering Manager at [Mailshake](https://mailshake.com)
-- 📍 Austin, Texas for now, not forever
-- 🎸 Bass
-- 🎣 Bass
--->
+[hapi]: https://holidayapi.com/
+[ms]: https://mailshake.com/
+[lipsum]: https://packagist.org/packages/joshtronic/php-loremipsum
+[words]: https://joshtronic.com/blog
