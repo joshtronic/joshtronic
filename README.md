@@ -2,4 +2,4 @@
 
 I've pulled up the roots and replanted on my own soil.
 
-https://git.sherver.org/joshtronic
+My personal projects are now hosted at https://git.sherver.org/
