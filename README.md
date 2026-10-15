@@ -6,9 +6,9 @@ I make [things][hustles], and slop [stuff][games].
 been fortunate to make a career out of it, even if I say things like, "[I'm not
 sure what I want to do when I grow up][about]."
 
-Most of my open source projects live on [GitLab][gitlab]. Their runners are
-S-Tier, and because I'll never grow out of my "[Micro$oft][microsoft] sucks"
-phase.
+Most of my open source projects live on [GitLab][gitlab], because their runners
+are S-Tier, and because I'll _never_ grow out of my "[Micro$oft][microsoft]
+sucks" phase.
 
 [about]: https://joshtronic.com/about/
 [games]: https://joshtronic.com/games/
